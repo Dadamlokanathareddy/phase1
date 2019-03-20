@@ -1,0 +1,42 @@
+{
+  "basics":{
+    "img":"image/download.jpg",
+    "name":"loknath",
+    "email":"in@gmail.com"
+  },
+  "resume":{
+    "info":"i am a bad boy"
+  },
+  "education":[{
+    "sno":"1",
+    "degree":"b-tech",
+    "colleg":"mits",
+    "per":"2021"
+  },
+  {
+    "sno":"2",
+    "degree":"12th",
+    "colleg":"sri chaitanya",
+    "per":"2017"
+  },
+  {
+  "sno":"3",
+  "degree":"10th",
+  "colleg":"zphs",
+  "per":"2015"
+  }
+],
+"skills":[{
+  "info":"python"
+},
+{
+  "info":"c/c++"
+},
+{
+  "info":"java"
+},
+{
+  "info":"html"
+}
+]
+}

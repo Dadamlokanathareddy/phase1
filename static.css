@@ -1,0 +1,48 @@
+body{
+  background-color:#260A72;
+
+}
+.class1{
+  text-align: center;
+  color: #24E80E;
+  background-color:#D9F90C;
+  margin: 5%;
+  padding: 4%;
+  width: 95%;
+  height: 60%;
+  box-shadow: 5px 5px 5px 5px red;
+  border-color: white;
+  border-radius: 5%;
+}
+.parent1{
+    display: flex;
+    background-color:#9E0794;
+    width: 95%;
+    height: 60%;
+    border-radius: 5%;
+    margin: 1%;
+    padding: 1%;
+    box-shadow: 5px 5px 5px 5px green;
+    border-color: white;
+    text-align: center;
+}
+.resume{
+  text-align: center;
+  color: #F9703E;
+  border-radius: 5%;
+  background-color:#1EEE4F;
+  margin: 5%;
+  padding: 4%;
+  width: 95%;
+  height: 60%;
+  box-shadow: 5px 5px 5px 5px red;
+  border-color: white;
+}
+img{
+  width: 60%;
+  height: 40%;
+}
+table{
+  border: 2px solid green ;
+
+}
